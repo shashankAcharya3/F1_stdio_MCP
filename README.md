@@ -30,7 +30,6 @@ MCP_stdio/
 ├── client.py            # Interactive Ollama client
 ├── requirements.txt     # Python dependencies
 ├── Explaination.md      # Detailed explanation of the architecture
-├── f1_cache/            # FastF1 cache directory
 ├── f1_server.log        # Server logs
 └── client.log           # Client logs
 ```
