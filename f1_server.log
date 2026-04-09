@@ -1,0 +1,184 @@
+2026-04-04 15:04:13,884 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 15:04:30,130 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-04-04 15:04:30,135 - root - INFO - --- Fetching Championship Standings for 2025 ---
+2026-04-04 15:04:30,839 - root - INFO - ✅ FINAL CHAMPIONSHIP STRING:
+Formula 1 World Championship Standings for 2025
+----------------------------------------
+1. Lando Norris - 423.0 points
+2. Max Verstappen - 421.0 points
+3. Oscar Piastri - 410.0 points
+4. George Russell - 319.0 points
+5. Charles Leclerc - 242.0 points
+6. Lewis Hamilton - 156.0 points
+7. Andrea Kimi Antonelli - 150.0 points
+8. Alexander Albon - 73.0 points
+9. Carlos Sainz - 64.0 points
+10. Fernando Alonso - 56.0 points
+11. Nico Hülkenberg - 51.0 points
+12. Isack Hadjar - 51.0 points
+13. Oliver Bearman - 41.0 points
+14. Liam Lawson - 38.0 points
+15. Esteban Ocon - 38.0 points
+16. Lance Stroll - 33.0 points
+17. Yuki Tsunoda - 33.0 points
+18. Pierre Gasly - 22.0 points
+19. Gabriel Bortoleto - 19.0 points
+20. Franco Colapinto - 0.0 points
+21. Jack Doohan - 0.0 points
+
+2026-04-04 15:12:16,771 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 15:12:36,138 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-04-04 15:12:36,141 - root - INFO - --- Fetching Championship Standings for 2025 ---
+2026-04-04 15:12:36,203 - root - INFO - ✅ FINAL CHAMPIONSHIP STRING:
+Formula 1 World Championship Standings for 2025
+----------------------------------------
+1. Lando Norris - 423.0 points
+2. Max Verstappen - 421.0 points
+3. Oscar Piastri - 410.0 points
+4. George Russell - 319.0 points
+5. Charles Leclerc - 242.0 points
+6. Lewis Hamilton - 156.0 points
+7. Andrea Kimi Antonelli - 150.0 points
+8. Alexander Albon - 73.0 points
+9. Carlos Sainz - 64.0 points
+10. Fernando Alonso - 56.0 points
+11. Nico Hülkenberg - 51.0 points
+12. Isack Hadjar - 51.0 points
+13. Oliver Bearman - 41.0 points
+14. Liam Lawson - 38.0 points
+15. Esteban Ocon - 38.0 points
+16. Lance Stroll - 33.0 points
+17. Yuki Tsunoda - 33.0 points
+18. Pierre Gasly - 22.0 points
+19. Gabriel Bortoleto - 19.0 points
+20. Franco Colapinto - 0.0 points
+21. Jack Doohan - 0.0 points
+
+2026-04-04 15:12:55,093 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-04-04 15:12:55,095 - root - INFO - --- Fetching Championship Standings for 2025 ---
+2026-04-04 15:12:55,123 - root - INFO - ✅ FINAL CHAMPIONSHIP STRING:
+Formula 1 World Championship Standings for 2025
+----------------------------------------
+1. Lando Norris - 423.0 points
+2. Max Verstappen - 421.0 points
+3. Oscar Piastri - 410.0 points
+4. George Russell - 319.0 points
+5. Charles Leclerc - 242.0 points
+6. Lewis Hamilton - 156.0 points
+7. Andrea Kimi Antonelli - 150.0 points
+8. Alexander Albon - 73.0 points
+9. Carlos Sainz - 64.0 points
+10. Fernando Alonso - 56.0 points
+11. Nico Hülkenberg - 51.0 points
+12. Isack Hadjar - 51.0 points
+13. Oliver Bearman - 41.0 points
+14. Liam Lawson - 38.0 points
+15. Esteban Ocon - 38.0 points
+16. Lance Stroll - 33.0 points
+17. Yuki Tsunoda - 33.0 points
+18. Pierre Gasly - 22.0 points
+19. Gabriel Bortoleto - 19.0 points
+20. Franco Colapinto - 0.0 points
+21. Jack Doohan - 0.0 points
+
+2026-04-04 20:41:15,879 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 20:42:07,674 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 20:44:42,336 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 20:47:06,373 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 20:47:45,457 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 21:05:08,044 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-04 21:05:30,165 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-04-04 21:05:30,168 - root - INFO - --- Fetching Championship Standings for 2025 ---
+2026-04-04 21:05:31,004 - root - INFO -  FINAL CHAMPIONSHIP STRING:
+Formula 1 World Championship Standings for 2025
+----------------------------------------
+1. Lando Norris - 423.0 points
+2. Max Verstappen - 421.0 points
+3. Oscar Piastri - 410.0 points
+4. George Russell - 319.0 points
+5. Charles Leclerc - 242.0 points
+6. Lewis Hamilton - 156.0 points
+7. Andrea Kimi Antonelli - 150.0 points
+8. Alexander Albon - 73.0 points
+9. Carlos Sainz - 64.0 points
+10. Fernando Alonso - 56.0 points
+11. Nico Hülkenberg - 51.0 points
+12. Isack Hadjar - 51.0 points
+13. Oliver Bearman - 41.0 points
+14. Liam Lawson - 38.0 points
+15. Esteban Ocon - 38.0 points
+16. Lance Stroll - 33.0 points
+17. Yuki Tsunoda - 33.0 points
+18. Pierre Gasly - 22.0 points
+19. Gabriel Bortoleto - 19.0 points
+20. Franco Colapinto - 0.0 points
+21. Jack Doohan - 0.0 points
+
+2026-04-09 08:36:32,774 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-04-09 08:37:04,344 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-04-09 08:37:05,083 - fastf1.fastf1.core - INFO - Loading data for Chinese Grand Prix - Race [v3.8.2]
+2026-04-09 08:37:05,084 - fastf1.fastf1.req - INFO - No cached data found for session_info. Loading data...
+2026-04-09 08:37:05,084 - fastf1.api - INFO - Fetching session info data...
+2026-04-09 08:37:05,874 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:05,875 - fastf1.fastf1.req - INFO - No cached data found for driver_info. Loading data...
+2026-04-09 08:37:05,875 - fastf1.api - INFO - Fetching driver list...
+2026-04-09 08:37:06,516 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:07,103 - fastf1.fastf1.req - INFO - No cached data found for session_status_data. Loading data...
+2026-04-09 08:37:07,104 - fastf1.api - INFO - Fetching session status data...
+2026-04-09 08:37:07,675 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:07,676 - fastf1.fastf1.req - INFO - No cached data found for lap_count. Loading data...
+2026-04-09 08:37:07,676 - fastf1.api - INFO - Fetching lap count data...
+2026-04-09 08:37:08,232 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:08,232 - fastf1.fastf1.req - INFO - No cached data found for track_status_data. Loading data...
+2026-04-09 08:37:08,232 - fastf1.api - INFO - Fetching track status data...
+2026-04-09 08:37:08,926 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:08,926 - fastf1.fastf1.req - INFO - No cached data found for _extended_timing_data. Loading data...
+2026-04-09 08:37:08,926 - fastf1.api - INFO - Fetching timing data...
+2026-04-09 08:37:09,938 - fastf1.api - INFO - Parsing timing data...
+2026-04-09 08:37:10,970 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:10,970 - fastf1.fastf1.req - INFO - No cached data found for timing_app_data. Loading data...
+2026-04-09 08:37:10,970 - fastf1.api - INFO - Fetching timing app data...
+2026-04-09 08:37:11,571 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:11,571 - fastf1.fastf1.core - INFO - Processing timing data...
+2026-04-09 08:37:12,254 - fastf1.fastf1.req - INFO - No cached data found for race_control_messages. Loading data...
+2026-04-09 08:37:12,254 - fastf1.api - INFO - Fetching race control messages...
+2026-04-09 08:37:12,945 - fastf1.fastf1.req - INFO - Data has been written to cache!
+2026-04-09 08:37:12,958 - fastf1.fastf1.core - INFO - Finished loading data for 20 drivers: ['81', '4', '63', '1', '31', '12', '23', '87', '18', '55', '6', '30', '7', '5', '27', '22', '14', '16', '44', '10']
+2026-04-09 08:37:12,958 - root - INFO - Raw dataframe Index(['DriverNumber', 'BroadcastName', 'Abbreviation', 'DriverId', 'TeamName',
+       'TeamColor', 'TeamId', 'FirstName', 'LastName', 'FullName',
+       'HeadshotUrl', 'CountryCode', 'Position', 'ClassifiedPosition',
+       'GridPosition', 'Q1', 'Q2', 'Q3', 'Time', 'Status', 'Points', 'Laps'],
+      dtype='object')
+2026-04-09 08:37:12,974 - root - INFO - 
+   DriverNumber BroadcastName Abbreviation  ...    Status Points  Laps
+81           81     O PIASTRI          PIA  ...  Finished   25.0  56.0
+4             4      L NORRIS          NOR  ...  Finished   18.0  56.0
+63           63     G RUSSELL          RUS  ...  Finished   15.0  56.0
+1             1  M VERSTAPPEN          VER  ...  Finished   12.0  56.0
+31           31        E OCON          OCO  ...  Finished   10.0  56.0
+
+[5 rows x 22 columns]
+2026-04-09 08:37:12,975 - root - INFO - The thing that is passed to the llm is the following: ✅
+Result for 2025 China Grand Prix - session R
+----------------------------------------
+1. Oscar Piastri (McLaren) - Finished
+2. Lando Norris (McLaren) - Finished
+3. George Russell (Mercedes) - Finished
+4. Max Verstappen (Red Bull Racing) - Finished
+5. Esteban Ocon (Haas F1 Team) - Finished
+6. Kimi Antonelli (Mercedes) - Finished
+7. Alexander Albon (Williams) - Finished
+8. Oliver Bearman (Haas F1 Team) - Finished
+9. Lance Stroll (Aston Martin) - Finished
+10. Carlos Sainz (Williams) - Finished
+11. Isack Hadjar (Racing Bulls) - Finished
+12. Liam Lawson (Red Bull Racing) - Finished
+13. Jack Doohan (Alpine) - Finished
+14. Gabriel Bortoleto (Kick Sauber) - Lapped
+15. Nico Hulkenberg (Kick Sauber) - Lapped
+16. Yuki Tsunoda (Racing Bulls) - Lapped
+17. Fernando Alonso (Aston Martin) - Retired
+18. Charles Leclerc (Ferrari) - Disqualified
+19. Lewis Hamilton (Ferrari) - Disqualified
+20. Pierre Gasly (Alpine) - Disqualified
+

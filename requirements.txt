@@ -1,0 +1,9 @@
+mcp[cli]
+python-dotenv
+ipykernel
+httpx
+pandas
+fastf1
+mcp
+langchain-ollama==1.0.1
+ollama==0.6.1
